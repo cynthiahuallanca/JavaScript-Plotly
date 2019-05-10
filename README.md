@@ -2,7 +2,7 @@
 
 Welcome one more time! 
 
-In the following project has the goal to explore Plotly.js of JavaScript. This library allows to build interactive dashboards to explore datasets. 
+This project has the goal to explore Plotly.js of JavaScript, combined with Flask and Heroku. Plotly.js library allows to build interactive dashboards to explore datasets. 
 
 Having said that, you'll find a PIE chart that displays the top 10 samples of Belly Button Biodiversity bacterias and also a Bubble Chart to display each sample.
 
