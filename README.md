@@ -13,4 +13,4 @@ Flask API was used to serve the data needed for the plots.
 ### Run the code
 
 To run it in the prompt, run it at the directory where run.sh is. Type: sh runs.sh.
-or simply by clicking [here](https://git.heroku.com/bellybuttonbych.git)
+or simply by clicking [here](https://bellybuttonbych.herokuapp.com/)
